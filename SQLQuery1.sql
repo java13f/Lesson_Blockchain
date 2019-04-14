@@ -1,0 +1,3 @@
+SELECT * FROM dbo.Blocks
+
+TRUNCATE TABLE Blocks;
